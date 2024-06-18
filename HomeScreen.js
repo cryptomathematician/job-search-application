@@ -5,15 +5,15 @@ import CategoryImage from './components/cardsImage';
 import PopularJobs from './components/popularJobs';
 
 
-export default function HomeScreen({ }) {
-
+export default function HomeScreen({ route }) {
+  const { name, email } = route.params;
   return (
     <ScrollView style={styles.container} contentContainerStyle={styles.contentContainer} >
       <View style={styles.devProfile}>
         <View style={styles.profileImage}>
           <View>
-            <Text style={styles.name}>Eric Atsu</Text>
-            <Text style={styles.email}>eric@gmail.com</Text>
+            <Text style={styles.name}>{name}</Text>
+            <Text style={styles.email}>{email}</Text>
           </View>
           <View style={styles.profiles}>
             <Image source={require('./assets/Ellipse.png')} style={styles.profile} />

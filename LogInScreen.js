@@ -6,7 +6,7 @@ export default function SignUpScreen({ navigation }) {
   const [email, setEmail] = useState('');
 
   const handleSignUp = () => {
-    navigation.navigate('Home',{ name, email });
+    navigation.navigate('Home',{name, email});
   };
   
   return (
