@@ -5,6 +5,12 @@ function CategoryImage() {
     const images = [
         { src: require('../assets/Vector.png'), job: 'Software Engineering', company: 'Facebook', place: "Accra, Ghana", salary: "$180,000", backgroundColor: '#71a6d2', backgroundImage: require('../assets/background.png') },
         { src: require('../assets/google.png'), job: 'Software Engineering', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#00004B', backgroundImage: require('../assets/background.png') },
+        { src: require('../assets/google.png'), job: 'Software Engineering', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#71a6d2', backgroundImage: require('../assets/background.png') },
+        { src: require('../assets/google.png'), job: 'Software Engineering', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#71a6d2', backgroundImage: require('../assets/background.png') },
+        { src: require('../assets/google.png'), job: 'Software Engineering', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#71a6d2', backgroundImage: require('../assets/background.png') },
+        { src: require('../assets/google.png'), job: 'Software Engineering', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#71a6d2', backgroundImage: require('../assets/background.png') },
+        { src: require('../assets/google.png'), job: 'Software Engineering', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#71a6d2', backgroundImage: require('../assets/background.png') },
+        { src: require('../assets/google.png'), job: 'Software Engineering', company: 'Google', place: "Accra, Ghana", salary: "$160,000", backgroundColor: '#71a6d2', backgroundImage: require('../assets/background.png') },
         // Add more images as needed
     ];
 
