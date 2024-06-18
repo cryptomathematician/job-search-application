@@ -49,6 +49,6 @@ Key Features:
 
 ## Screenshots
  
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment3-11288689/blob/main/assets/Screenshot1.png)
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment3-11288689/blob/main/assets/Screenshot2.png)
+- ![Screenshot](https://github.com/cryptomathematician/rn-assignment4-11288689/blob/main/assets/Screenshot1.png)
+- ![Screenshot](https://github.com/cryptomathematician/rn-assignment4-11288689/blob/main/assets/Screenshot2.png)
 
